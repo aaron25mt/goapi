@@ -9,7 +9,7 @@ A simple CRUD REST API designed using [Golang](https://golang.org) and [MongoDB]
 
 ### How to Run
 ```
-go build && ./go-api
+go build && ./goapi
 ```
 
 ### Routes
